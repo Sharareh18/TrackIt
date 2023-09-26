@@ -38,11 +38,11 @@ Demo video:
 -  Database seeding in Node.js:  https://levelup.gitconnected.com/database-seeding-in-node-js-2b2eec5bfaa1
 -  When i run the source D:\file.sql; the following error occurs: https://dba.stackexchange.com/questions/314262/when-i-run-the-source-d-file-sql-the-following-error-occurs#:~:text=The%20code%20error%202%20(in,sql%20.
 -  Node.js console.table() Method:  https://www.geeksforgeeks.org/node-js-console-table-method/
--Node.js v20.7.0 documentation:  https://nodejs.org/api/console.html#consoletabletabulardata-properties
--NPM console.table: https://www.npmjs.com/package/console.table
--Node.js MySQL Join: https://www.w3schools.com/nodejs/nodejs_mysql_join.asp
--Node.js MySQL Insert Into: https://www.w3schools.com/nodejs/nodejs_mysql_insert.asp
--MySQL Data Types (Version 8.0): https://www.w3schools.com/mysql/mysql_datatypes.asp
+-  Node.js v20.7.0 documentation:  https://nodejs.org/api/console.html#consoletabletabulardata-properties
+-  NPM console.table: https://www.npmjs.com/package/console.table
+-  Node.js MySQL Join: https://www.w3schools.com/nodejs/nodejs_mysql_join.asp
+-  Node.js MySQL Insert Into: https://www.w3schools.com/nodejs/nodejs_mysql_insert.asp
+-  MySQL Data Types (Version 8.0): https://www.w3schools.com/mysql/mysql_datatypes.asp
 
 University of California Irvine Full Stack Development Bootcamp 2023 Resources:
 
